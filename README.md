@@ -11,13 +11,23 @@
 
 ---
 
+### @Dr-M-Amin-Nadim's Holopin board
+
+<div align="center">
+  <a href="https://holopin.io/@dr_m_amin_nadim" target="_blank">
+    <img src="https://holopin.me/dr_m_amin_nadim" alt="@dr_m_amin_nadim's Holopin board" width="300"/>
+  </a>
+</div>
+
+---
+
 🧐 **About**
 
 🌐 **Visit my Website**
 
 🌱 I’m currently advancing my skills in LLMs, Cloud Computing, and DevOps tools and mainly in Research Implementation in ML, DL, LLM.
 
-📫 **Want to reach me?** dr.muhammad.amin.nadim@gmail.com or connect with me on LinkedIn.
+📫 **Want to reach me?** dr.muhammad.amin.nadim@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/dr-m-amin-nadim).
 
 🎆 **PhD Researcher in National Doctorate Program**
 
@@ -33,22 +43,24 @@
 
 ---
 
-### 🌐 Connect with me
+### Languages I have worked with
 
 <div align="center">
-  <a href="https://dev.to/muhammad_aminnadim_7dcaf" target="_blank">
-    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Dev.to" width="48"/>
-  </a>
-  <a href="https://twitter.com/muhammadaminnadim" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter"/>
-  </a>
-  <a href="https://www.facebook.com/maminnadim" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook.png" alt="Facebook"/>
-  </a>
-  <a href="https://instagram.com/muhammadaminnadim" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/>
-  </a>
-  <a href="https://github.com/Dr-M-Amin-Nadim" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/>
-  </a>
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
+  <img src="https://img.icons8.com/color/48/000000/r-logo.png" alt="R"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5"/>
 </div>
+
+---
+
+### Visitor Count
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Dr-M-Amin-Nadim.Dr-M-Amin-Nadim" alt="visitor count"/>
+</div>
+
+---
+
+### Show some ❤️ by starring ⭐ some of the repos on [my GitHub profile](https://github.com/Dr-M-Amin-Nadim)!
