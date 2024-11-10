@@ -37,7 +37,7 @@
 
 <div align="center">
   <a href="https://dev.to/muhammad_aminnadim_7dcaf" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/dev.png" alt="Dev.to"/>
+    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Dev.to" width="48"/>
   </a>
   <a href="https://twitter.com/muhammadaminnadim" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter"/>
@@ -50,8 +50,5 @@
   </a>
   <a href="https://github.com/Dr-M-Amin-Nadim" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/>
-  </a>
-  <a href="https://dev.to/muhammad_aminnadim_7dcaf" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/dev.png" alt="DEV Community"/>
   </a>
 </div>
