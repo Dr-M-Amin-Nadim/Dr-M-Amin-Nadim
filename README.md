@@ -35,9 +35,23 @@
 
 ### 🌐 Connect with me
 
-- **DEV Community**: [Dr.MUhammad Amin Nadim](https://)
-- **Twitter**: [@MUhammad Amin Nadim](https:)
-- **Facebook**: [MUhammad Amin Nadim]([(https://www.facebook.com/maminnadim])
-- **Instagram**: [MUhammad Amin Nadim](https://instagram.com/_devansh_609)
-- **GitHub**: [Dr.Muhamamd Amin Nadim](https://github.com/[Dr-M-Amin-Nadim]
-- **DEV Community Profile**: [Muhammad Amin Nadim Profile] (https://)
+<div align="center">
+  <a href="https://dev.to/drmuhammadaminnadim" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/dev.png" alt="Dev.to"/>
+  </a>
+  <a href="https://twitter.com/muhammadaminnadim" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter"/>
+  </a>
+  <a href="https://www.facebook.com/maminnadim" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/facebook.png" alt="Facebook"/>
+  </a>
+  <a href="https://instagram.com/muhammadaminnadim" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/>
+  </a>
+  <a href="https://github.com/Dr-M-Amin-Nadim" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/>
+  </a>
+  <a href="https://dev.to/muhammadaminnadim" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/dev.png" alt="DEV Community"/>
+  </a>
+</div>
