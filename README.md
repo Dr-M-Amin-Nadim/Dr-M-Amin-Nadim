@@ -1,4 +1,5 @@
-![Profile Image]([https://github.com/Dr-M-Amin-Nadim/Dr-M-Amin-Nadim/blob/main/okkk.gif])
+![Profile Image](https://raw.githubusercontent.com/Dr-M-Amin-Nadim/Dr-M-Amin-Nadim/main/okkk.gif)
+
 
 
 I'm [Your Name]
