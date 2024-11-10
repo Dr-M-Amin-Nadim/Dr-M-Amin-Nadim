@@ -8,11 +8,11 @@ I am an AI & ML Engineer with a passion for Data Science and Predictive Analysis
 
 🧐 About
 
-🌐 Visit my Website :https://muhammad-amin-nadim.github.io/
+🌐 Visit my [Website](https://muhammad-amin-nadim.github.io/)
 
 🌱 I’m currently advancing my skills in LLMs, Cloud Computing, and DevOps tools and mainly in Research Implementation in ML,DL,LLM.
 
-📫 Want to reach me? [dr.muhammad.amin.nadim@gmail.com] or connect with me on LinkedIn.
+📫 Want to reach me? [dr.muhammad.amin.nadim@gmail.com](mailto:dr.muhammad.amin.nadim@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-amin-nadim/).
 
 🎆 PhD Researcher in National Doctorate Program.
 
