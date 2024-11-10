@@ -1,6 +1,5 @@
-Here's a version tailored to your background and expertise:
+![Profile Image](https://github.com/yourusername/yourrepository/blob/main/okkk.gif)
 
----
 
 I'm [Your Name]
 
