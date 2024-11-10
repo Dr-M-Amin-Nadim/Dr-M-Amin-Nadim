@@ -36,7 +36,7 @@
 ### 🌐 Connect with me
 
 <div align="center">
-  <a href="[https://dev.to/drmuhammadaminnadim](https://dev.to/muhammad_aminnadim_7dcaf)" target="_blank">
+  <a href="https://dev.to/muhammad_aminnadim_7dcaf" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/dev.png" alt="Dev.to"/>
   </a>
   <a href="https://twitter.com/muhammadaminnadim" target="_blank">
@@ -51,7 +51,7 @@
   <a href="https://github.com/Dr-M-Amin-Nadim" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/>
   </a>
-  <a href="[https://dev.to/muhammadaminnadim](https://dev.to/muhammad_aminnadim_7dcaf)" target="_blank">
+  <a href="https://dev.to/muhammad_aminnadim_7dcaf" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/dev.png" alt="DEV Community"/>
   </a>
 </div>
