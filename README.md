@@ -30,3 +30,14 @@
 😄 **Pronouns:** He/Him
 
 🌙 **Fun fact:** I hold dual Master’s degrees in IT & Computer Science, and I’m also part of PIAIC’s Artificial Intelligence Developer Program! Plus, I’m always curious about how AI is shaping our world. 😁
+
+---
+
+### 🌐 Connect with me
+
+- **DEV Community**: [Dr.MUhammad Amin Nadim](https://)
+- **Twitter**: [@MUhammad Amin Nadim](https:)
+- **Facebook**: [MUhammad Amin Nadim]([(https://www.facebook.com/maminnadim])
+- **Instagram**: [MUhammad Amin Nadim](https://instagram.com/_devansh_609)
+- **GitHub**: [Dr.Muhamamd Amin Nadim](https://github.com/[Dr-M-Amin-Nadim]
+- **DEV Community Profile**: [Muhammad Amin Nadim Profile] (https://)
