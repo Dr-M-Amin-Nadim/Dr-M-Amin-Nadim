@@ -49,7 +49,7 @@
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
-  <img src="https://img.icons8.com/color/48/000000/r-logo.png" alt="R"/>
+  <img src="https://cdn-icons-png.flaticon.com/48/1183/1183672.png" alt="R" width="48"/>
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5"/>
 </div>
 
@@ -58,7 +58,7 @@
 ### Visitor Count
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Dr-M-Amin-Nadim.Dr-M-Amin-Nadim" alt="visitor count"/>
+  <img src="https://img.shields.io/badge/dynamic/json?label=visitors&query=value&url=https://api.countapi.xyz/hit/Dr-M-Amin-Nadim.Dr-M-Amin-Nadim" alt="visitor count"/>
 </div>
 
 ---
