@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Dr-M-Amin-Nadim/Dr-M-Amin-Nadim/main/okkk.gif" alt="Profile Image">
+<div align="left">
+  <img src="https://raw.githubusercontent.com/Dr-M-Amin-Nadim/Dr-M-Amin-Nadim/main/okkk.gif" alt="Profile Image" align="right" width="200" style="margin-left: 20px;">
 
   <h1><b>I'm MUHAMMAD AMIN NADIM</b></h1>
   <h3><b>I am an AI & ML Engineer with a passion for Data Science and Predictive Analysis (I ❤️ Open Source & Innovation)</b></h3>
