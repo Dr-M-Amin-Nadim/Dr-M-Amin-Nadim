@@ -1,8 +1,8 @@
-![Profile Image](https://raw.githubusercontent.com/Dr-M-Amin-Nadim/Dr-M-Amin-Nadim/main/okkk.gif)
 
 
 
-I'm [Your Name]
+
+I'm MUHAMMAD AMIN NADIM
 
 I am an AI & ML Engineer with a passion for Data Science and Predictive Analysis (I ❤️ Open Source & Innovation)
 
@@ -15,6 +15,8 @@ I am an AI & ML Engineer with a passion for Data Science and Predictive Analysis
 📫 Want to reach me? [dr.muhammad.amin.nadim@gmail.com](mailto:dr.muhammad.amin.nadim@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-amin-nadim/).
 
 🎆 PhD Researcher in National Doctorate Program.
+
+![Profile Image](https://raw.githubusercontent.com/Dr-M-Amin-Nadim/Dr-M-Amin-Nadim/main/okkk.gif)
 
 🔭 I am contributing to open-source projects, developing advanced ML models, and sharing insights on data science and machine learning.
 
