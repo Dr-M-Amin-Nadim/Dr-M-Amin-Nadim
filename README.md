@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/Dr-M-Amin-Nadim/Dr-M-Amin-Nadim/blob/main/KKKK.svg" alt="Top Banner Image" width="100%">
+</div>
+
 <div align="left">
   <img src="https://raw.githubusercontent.com/Dr-M-Amin-Nadim/Dr-M-Amin-Nadim/main/okkk.gif" alt="Profile Image" align="right" width="200" style="margin-left: 20px;">
 
