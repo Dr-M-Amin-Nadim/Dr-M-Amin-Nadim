@@ -1,23 +1,27 @@
-I'm Mursal Furqan
+Here's a version tailored to your background and expertise:
 
-I am a React Developer (I ❤️ F.O.S.S.)
+---
+
+I'm [Your Name]
+
+I am an AI & ML Engineer with a passion for Data Science and Predictive Analysis (I ❤️ Open Source & Innovation)
 
 🧐 About
 
-🌐 Visit my Website
+🌐 Visit my Website :https://muhammad-amin-nadim.github.io/
 
-🌱 I’m currently learning React and its frameworks along with Flask
+🌱 I’m currently advancing my skills in LLMs, Cloud Computing, and DevOps tools and mainly in Research Implementation in ML,DL,LLM.
 
-📫 Want to reach me? mursalfurqan@gmail.com or DM me on Twitter.
+📫 Want to reach me? [dr.muhammad.amin.nadim@gmail.com] or connect with me on LinkedIn.
 
-🎆 Research Fellow at SISSA.
+🎆 PhD Researcher in National Doctorate Program.
 
-🔭 I am currently contributing to Open Source, building some cool daily use applications using React and Django, and writing Tech Blogs on Dev.to.
+🔭 I am contributing to open-source projects, developing advanced ML models, and sharing insights on data science and machine learning.
 
-👀 Things I know: React, Python, Flask, Markdown, Firebase, MongoDB, Git/Github
+👀 Things I know: Python, Data Science, Machine Learning, Predictive Analysis, DevOps, Cloud Computing, AI Engineering, Git/GitHub, LLM Development
 
-😍 I ❤️ reading tech blogs, 💫travelling and building myself 💌
+😍 I ❤️ exploring AI innovations, 🌏traveling, and continuously learning new technologies.
 
-😄 Pronouns: He/Him
+😄 Pronouns: [Your Pronouns]
 
-🌙 Fun fact: NASA's Perseverance Rover carries my name😁 (👽 could know about me 😜) & Google knows more about me than myself 😅
+🌙 Fun fact: I hold dual Master’s degrees in IT & Computer Science, and I’m also part of PIAIC’s Artificial Intelligence Developer Program! Plus, I’m always curious about how AI is shaping our world. 😁
