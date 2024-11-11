@@ -11,46 +11,38 @@
 
 ---
 
-### @Dr-M-Amin-Nadim's Holopin board
+### About Me
+
+- 🌱 I’m currently advancing my skills in LLMs, Cloud Computing, and DevOps tools, focusing on research implementation in ML, DL, and LLM.
+- 🎓 **PhD Researcher** in the National Doctorate Program.
+- 🔭 I am contributing to open-source projects, developing advanced ML models, and sharing insights on data science and machine learning.
+- 💬 Ask me about Python, Data Science, Machine Learning, Predictive Analysis, DevOps, Cloud Computing, AI Engineering, Git/GitHub, LLM Development.
+- 📫 How to reach me: dr.muhammad.amin.nadim@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/dr-m-amin-nadim).
+- 😄 Pronouns: He/Him
+- 🌐 Visit my [Website](#)
+
+---
+
+### My Holopin Board
 
 <div align="center">
-  <a href="https://holopin.io/@dr_m_amin_nadim" target="_blank">
-    <img src="https://holopin.me/dr_m_amin_nadim" alt="@dr_m_amin_nadim's Holopin board" width="300"/>
+  <a href="https://www.holopin.io/@drmaminnadim#" target="_blank">
+    <img src="https://holopin.me/drmaminnadim" alt="@drmaminnadim's Holopin board" width="300"/>
   </a>
 </div>
 
 ---
 
-🧐 **About**
-
-🌐 **Visit my Website**
-
-🌱 I’m currently advancing my skills in LLMs, Cloud Computing, and DevOps tools and mainly in Research Implementation in ML, DL, LLM.
-
-📫 **Want to reach me?** dr.muhammad.amin.nadim@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/dr-m-amin-nadim).
-
-🎆 **PhD Researcher in National Doctorate Program**
-
-🔭 I am contributing to open-source projects, developing advanced ML models, and sharing insights on data science and machine learning.
-
-👀 **Things I know:** Python, Data Science, Machine Learning, Predictive Analysis, DevOps, Cloud Computing, AI Engineering, Git/GitHub, LLM Development
-
-😍 I ❤️ exploring AI innovations, 🌏 traveling, and continuously learning new technologies.
-
-😄 **Pronouns:** He/Him
-
-🌙 **Fun fact:** I hold dual Master’s degrees in IT & Computer Science, and I’m also part of PIAIC’s Artificial Intelligence Developer Program! Plus, I’m always curious about how AI is shaping our world. 😁
-
----
-
-### Languages I have worked with
+### Languages and Tools
 
 <div align="center">
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
-  <img src="https://cdn-icons-png.flaticon.com/48/1183/1183672.png" alt="R" width="48"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R"/>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
 </div>
 
 ---
@@ -58,9 +50,9 @@
 ### Visitor Count
 
 <div align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?label=visitors&query=value&url=https://api.countapi.xyz/hit/Dr-M-Amin-Nadim.Dr-M-Amin-Nadim" alt="visitor count"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Dr-M-Amin-Nadim.Dr-M-Amin-Nadim" alt="Visitor Count"/>
 </div>
 
 ---
 
-### Show some ❤️ by starring ⭐ some of the repos on [my GitHub profile](https://github.com/Dr-M-Amin-Nadim)!
+### Show some ❤️ by starring ⭐ some of the repositories on [my GitHub profile](https://github.com/Dr-M-Amin-Nadim)!
