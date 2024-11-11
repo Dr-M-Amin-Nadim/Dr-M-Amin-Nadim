@@ -39,7 +39,7 @@
 
 ---
 
-### Languages I Have Worked With
+### Languages and Tools
 
 <div align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
@@ -50,6 +50,15 @@
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
+</div>
+
+---
+
+### GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dr-M-Amin-Nadim&show_icons=true&theme=radical" alt="GitHub Stats" width="50%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dr-M-Amin-Nadim&theme=radical" alt="GitHub Streak" width="50%">
 </div>
 
 ---
@@ -87,7 +96,6 @@
 ---
 
 ### Show some ❤️ by starring ⭐ some of the repositories on [my GitHub profile](https://github.com/Dr-M-Amin-Nadim)!
-
 
 ............DONE
 
