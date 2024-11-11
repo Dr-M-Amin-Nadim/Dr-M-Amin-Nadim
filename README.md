@@ -31,6 +31,7 @@
 
 ---
 
+
 ### Featured AI Application
 - [Voice-to-Voice and Text Chatbot on Hugging Face](https://huggingface.co/spaces/maminnadim/Voice-to-Voice-and-Text-Chatbot) 🗣️🤖💬
 
@@ -73,7 +74,43 @@
 - [Matplotlib Guide for Effective Visualization](https://github.com/Muhammad-Amin-Nadim/HOW-TO-WORK-WITH-MATPLOT-EFFECTIVELY) 📉📈🎨
 - [Data Preprocessing in Python using Dummy Data](https://github.com/Muhammad-Amin-Nadim/MACHINE-LEARNING-DATA-PREPROCESSING-IN-PYTHON---USING-DUMMY-DATA) 📊📉
 
---- 
+---
+
+### Professional Courses and Certifications
+
+#### Coursera Specializations
+Explore my [Coursera Specializations](https://github.com/Muhammad-Amin-Nadim/COURSERA-SPECIALIZATIONS) in fields spanning data science, AI, and machine learning. **Learn More** 📖
+
+#### Python Courses
+- [Python and Statistics for Financial Analysis](https://github.com/Muhammad-Amin-Nadim/COURSERA-CERTIFCATES/blob/main/Python%20and%20Statistics%20for%20Financial%20Analysis.pdf)
+- [Python and Machine Learning for Asset Management](https://github.com/Muhammad-Amin-Nadim/COURSERA-CERTIFCATES/blob/main/Python%20and%20Machine%20Learning%20for%20Asset%20Management.pdf)
+- [Python Programming Essentials](https://github.com/Muhammad-Amin-Nadim/COURSERA-CERTIFCATES/blob/main/Python%20Programming%20Essentials.pdf)
+- [Python for Genomic Data Science](https://github.com/Muhammad-Amin-Nadim/COURSERA-CERTIFCATES/blob/main/Python%20for%20Genomic%20Data%20Science.pdf)
+- [A Concise Introduction to Python Programming](https://github.com/Muhammad-Amin-Nadim/COURSERA-CERTIFCATES/blob/main/Python%20Programming%20%20A%20Concise%20Introduction.pdf)
+- [Python Data Structures](https://github.com/Muhammad-Amin-Nadim/COURSERA-CERTIFCATES/blob/main/Python%20Data%20Structures.pdf)
+- [Python Data Representations](https://github.com/Muhammad-Amin-Nadim/COURSERA-CERTIFCATES/blob/main/Python%20Data%20Representations.pdf)
+- [Programming for Everybody (Getting Started with Python)](https://github.com/Muhammad-Amin-Nadim/COURSERA-CERTIFCATES/blob/main/Programming%20for%20Everybody%20(Getting%20Started%20with%20Python).pdf)
+- [Programming Fundamentals](https://github.com/Muhammad-Amin-Nadim/COURSERA-CERTIFCATES/blob/main/Programming%20Fundamentals.pdf)
+- [Machine Learning with Python](https://github.com/Muhammad-Amin-Nadim/COURSERA-CERTIFCATES/blob/main/Machine%20Learning%20with%20Python.pdf)
+- [Framework for Data Collection and Analysis](https://github.com/Muhammad-Amin-Nadim/COURSERA-CERTIFCATES/blob/main/Framework%20for%20Data%20Collection%20and%20Analysis.pdf)
+- [Graph Analytics for Big Data](https://github.com/Muhammad-Amin
+
+-Nadim/COURSERA-CERTIFCATES/blob/main/Graph%20Analytics%20for%20Big%20Data.pdf)
+
+#### Project Management Courses
+- [IT Project Management](https://github.com/Muhammad-Amin-Nadim/COURSERA-CERTIFCATES/blob/main/IT%20Project%20Management.pdf)
+- [Identifying, Monitoring, and Analyzing Risk & Incident Response](https://github.com/Muhammad-Amin-Nadim/COURSERA-CERTIFCATES/blob/main/Identifying%2C%20Monitoring%2C%20and%20Analyzing%20Risk%20and%20Incident%20Response%20and%20Recovery.pdf)
+- [Project Management Basics for Success](https://github.com/Muhammad-Amin-Nadim/COURSERA-CERTIFCATES/blob/main/Project%20Management%20The%20Basics%20for%20Success.pdf)
+- [Initiating and Planning Projects](https://github.com/Muhammad-Amin-Nadim/COURSERA-CERTIFCATES/blob/main/Initiating%20and%20Planning%20Projects.pdf)
+- [Managing Project Risks and Changes](https://github.com/Muhammad-Amin-Nadim/COURSERA-CERTIFCATES/blob/main/Managing%20Project%20Risks%20and%20Changes.pdf)
+
+---
+
+### Master in Innovation Management
+Proud to have completed the [Master in Innovation Management](https://github.com/Muhammad-Amin-Nadim/MASTER-IN-INNOVATION-MANAGEMENT-ASCHERI-ACADEMY-2023) at Ascheri Academy, a significant step in my journey toward creative leadership and impactful innovations.
+---
+
+
 
 ### Certifications and Badges
 
@@ -116,6 +153,7 @@
 </div>
 
 ---
+
 ---
 
 ### Languages and Tools
