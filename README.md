@@ -55,4 +55,29 @@
 
 ---
 
+### 🌐 Connect with me
+
+<div align="center">
+  <a href="https://dev.to/muhammad_aminnadim_7dcaf" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/dev.png" alt="Dev.to"/>
+  </a>
+  <a href="https://twitter.com/muhammadaminnadim" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter"/>
+  </a>
+  <a href="https://www.facebook.com/maminnadim" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/facebook.png" alt="Facebook"/>
+  </a>
+  <a href="https://instagram.com/muhammadaminnadim" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/>
+  </a>
+  <a href="https://github.com/Dr-M-Amin-Nadim" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/>
+  </a>
+  <a href="https://dev.to/muhammad_aminnadim_7dcaf" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/dev.png" alt="DEV Community"/>
+  </a>
+</div>
+
+---
+
 ### Show some ❤️ by starring ⭐ some of the repositories on [my GitHub profile](https://github.com/Dr-M-Amin-Nadim)!
