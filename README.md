@@ -24,6 +24,7 @@
 - 📫 **How to reach me:** dr.muhammad.amin.nadim@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/dr-m-amin-nadim).
 - 😍 I ❤️ reading tech blogs, 💫travelling and building myself for future AI Revolution.
 - 💌 💝 History 🙏 Everyone.💝In 1999, I taught my first computer class to a practising MBBS doctor.😄
+- 😍 I’m all about the thrill of the game ❤️, diving into cricket 🏏, hockey 🏒, and football ⚽, sparking my passion every step of the way 💫!
 - 😄 Pronouns: He/Him
 - 🌐 Visit my [Website](https://example.com)
 
