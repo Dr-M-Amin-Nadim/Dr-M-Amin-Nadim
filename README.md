@@ -21,6 +21,7 @@
 - 🎓 **PhD Researcher** in the National Doctorate Program,ROMA,Italy
 - 🔭 I am contributing to open-source projects, developing advanced ML models, and sharing insights on data science and machine learning.
 - 💬 **Ask me about** Python, Flask, Streamlit, Markdown, Data Science, Machine Learning, Predictive Analysis, DevOps, Cloud Computing, AI Engineering, Git/GitHub, and LLM Development.
+- 🎓😍 With hands-on expertise in Python, machine learning, and deep learning, I'm all about pushing boundaries ⚡, diving into advanced AI projects like [Automated Breast Cancer Detection](https://www.tandfonline.com/doi/full/10.1080/08839514.2023.2166222) and [Lung Cancer Prediction with Deep Learning and XGBoost](https://www.tandfonline.com/doi/full/10.1080/09540091.2022.2151566), sparking innovation every step of the way 💫!
 - 📫 **How to reach me:** dr.muhammad.amin.nadim@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/dr-m-amin-nadim).
 - 😍 I ❤️ reading tech blogs, 💫travelling and building myself for future AI Revolution.
 - 💌 💝 History 🙏 Everyone.💝In 1999, I taught my first computer class to a practising MBBS doctor.😄
