@@ -30,6 +30,10 @@
 - 🌐 Visit my [Website](https://example.com)
 
 ---
+💻✨ I love diving into Python and tackling diverse coding projects, bringing ideas to life through code! [Explore my projects here](https://github.com/Muhammad-Amin-Nadim?page=8&tab=repositories) 🔗📂
+
+---
+
 
 ### Certifications and Badges
 
