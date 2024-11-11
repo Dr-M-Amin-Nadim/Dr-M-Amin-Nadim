@@ -1,6 +1,3 @@
-Here is the updated README with the "Connect with me" section placed right after the "Fun fact" section:
-
-```markdown
 <div align="center">
   <img src="https://github.com/Dr-M-Amin-Nadim/Dr-M-Amin-Nadim/blob/main/KKKK.svg" alt="Top Banner Image" width="100%">
 </div>
@@ -83,11 +80,3 @@ Here is the updated README with the "Connect with me" section placed right after
 ---
 
 ### Show some ❤️ by starring ⭐ some of the repositories on [my GitHub profile](https://github.com/Dr-M-Amin-Nadim)!
-```
-
-### Explanation of Changes:
-
-- Moved the "Connect with me" section directly below the "Fun fact" for a natural flow.
-- Updated layout and icons for consistency.
-
-This should now display correctly and be aligned as requested. Let me know if you need further customization!
