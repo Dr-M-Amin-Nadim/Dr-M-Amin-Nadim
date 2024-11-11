@@ -2,6 +2,12 @@
   <img src="https://github.com/Dr-M-Amin-Nadim/Dr-M-Amin-Nadim/blob/main/KKKK.svg" alt="Top Banner Image" width="100%">
 </div>
 
+<div align="center">
+  <img src="https://github.com/Dr-M-Amin-Nadim/Dr-M-Amin-Nadim/blob/main/11.svg" alt="11 SVG" width="150">
+  <img src="https://github.com/Dr-M-Amin-Nadim/Dr-M-Amin-Nadim/blob/main/22.svg" alt="22 SVG" width="150">
+  <img src="https://github.com/Dr-M-Amin-Nadim/Dr-M-Amin-Nadim/blob/main/33.svg" alt="33 SVG" width="150">
+</div>
+
 <div align="left">
   <img src="https://raw.githubusercontent.com/Dr-M-Amin-Nadim/Dr-M-Amin-Nadim/main/okkk.gif" alt="Profile Image" align="right" width="200" style="margin-left: 20px;">
 
@@ -22,8 +28,6 @@
 - 🌐 Visit my [Website](#)
 
 ---
-
-🌙 **Fun fact:** NASA's Perseverance Rover carries my name😁 (👽 could know about me 😜) & Google knows more about me than myself 😅
 
 ### 🌐 Connect with me
 
@@ -46,30 +50,6 @@
 </div>
 
 ---
----
-
-### My Holopin Board
-
-<div align="center">
-  <a href="https://www.holopin.io/@drmaminnadim#" target="_blank">
-    <img src="https://holopin.me/drmaminnadim" alt="@drmaminnadim's Holopin board" width="300"/>
-  </a>
-</div>
-
----
-
-### Languages and Tools
-
-<div align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R"/>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-</div>
-
-
 
 ### Visitor Count
 
