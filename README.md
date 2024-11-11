@@ -93,9 +93,7 @@ Explore my [Coursera Specializations](https://github.com/Muhammad-Amin-Nadim/COU
 - [Programming Fundamentals](https://github.com/Muhammad-Amin-Nadim/COURSERA-CERTIFCATES/blob/main/Programming%20Fundamentals.pdf)
 - [Machine Learning with Python](https://github.com/Muhammad-Amin-Nadim/COURSERA-CERTIFCATES/blob/main/Machine%20Learning%20with%20Python.pdf)
 - [Framework for Data Collection and Analysis](https://github.com/Muhammad-Amin-Nadim/COURSERA-CERTIFCATES/blob/main/Framework%20for%20Data%20Collection%20and%20Analysis.pdf)
-- [Graph Analytics for Big Data](https://github.com/Muhammad-Amin
-
--Nadim/COURSERA-CERTIFCATES/blob/main/Graph%20Analytics%20for%20Big%20Data.pdf)
+- [Graph Analytics for Big Data](https://github.com/Muhammad-AminNadim/COURSERA-CERTIFCATES/blob/main/Graph%20Analytics%20for%20Big%20Data.pdf)
 
 #### Project Management Courses
 - [IT Project Management](https://github.com/Muhammad-Amin-Nadim/COURSERA-CERTIFCATES/blob/main/IT%20Project%20Management.pdf)
