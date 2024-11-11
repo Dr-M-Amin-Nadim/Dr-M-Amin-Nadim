@@ -30,7 +30,42 @@
 - 🌐 Visit my [Website](https://example.com)
 
 ---
-💻✨ I love diving into Python and tackling diverse coding projects, bringing ideas to life through code! [Explore my projects here](https://github.com/Muhammad-Amin-Nadim?page=8&tab=repositories) 🔗📂
+Here's the updated list, focusing only on the relevant and functional links for your profile scope. I’ve removed duplicates, non-functional links, and irrelevant repositories.
+
+---
+
+### Top Projects
+- [Fake News Detection - Machine Learning Project](https://github.com/Muhammad-Amin-Nadim/PROJECT-MACHINE-LEARNING-FAKE-NEWS-DETECTION-PRACTICE-2021) 📰🤖📊
+- [Gold Price Prediction - Machine Learning Project](https://github.com/Muhammad-Amin-Nadim/MACHINE-LEARNING-PROJECT-GOLD-PRICE-PREDICTION-2021) 🪙📈📊
+- [Movie Recommendation System - Machine Learning Project](https://github.com/Muhammad-Amin-Nadim/MACHINE_LEARNING_PROJECT_Movie_Recommendation_System-2021) 🎬📊🤖
+- [FIFA Player Prediction and Analysis - Machine Learning Project](https://github.com/Muhammad-Amin-Nadim/MACHINE-LEARNING-FIFA-PLAYERS-PREDICATION-FifaPlayerAnalysis-2022) ⚽📊🤖
+- [Credit Card Fraud Detection - Regression Model Project](https://github.com/Muhammad-Amin-Nadim/MACHINE-LEARNING-REGRESSION-MODEL-CREDITCARD-FRAUD-DETECTION-PROJECT) 💳📉📊
+- [Cardio Good Fitness Prediction - Descriptive Statistics Project](https://github.com/Muhammad-Amin-Nadim/MACHINE-LEARNING-CARDIO-GOOD-FITNESS-PREDICTIONS-DESCRIPTIVE-STATISTICS-PROJECT) 🏃📊📈
+- [AI Chest X-Ray Medical Diagnosis with Deep Learning](https://github.com/Muhammad-Amin-Nadim/AI-Chest-X-Ray-Medical-Diagnosis-with-Deep-Learning) 🩻🤖📊
+- [Sentiment Analysis on Amazon Product Reviews](https://github.com/Muhammad-Amin-Nadim/AMAZON-PRODUCT-REVIEWS-SENTIMENT-ANALYSIS-WITH-MACHINE-LEARNING) 🛍️📊🤖
+- [Hate Speech Detection Model with Machine Learning](https://github.com/Muhammad-Amin-Nadim/HATE-SPEECH-DETECTION-MODEL-WITH-MACHINE-LEARNING) 🗣️❌📊
+- [Twitter Sentiment Analysis using NLTK & Naive Bayes](https://github.com/Muhammad-Amin-Nadim/TWITTER-SENTIMENT-ANALYSIS-USING-THE-NLTK-NAIVEBAYES-CLASSIFIER) 🐦📉🤖
+- [Malaria Disease Detection with Deep Learning](https://github.com/Muhammad-Amin-Nadim/PROJECT-DEEP-LEARNING-Malaria_Disease_Using_Deep_Learning) 🦠🤖📊
+
+---
+
+### Practice Repositories
+- [Evaluation Metrics for Classification](https://github.com/Muhammad-Amin-Nadim/MACHINE-LEARNING-EVALUATION-METRICS-FOR-CLASSIFICATION) 📊✅🤖
+- [Random Forest Classifier - Ensemble Learning Theory](https://github.com/Muhammad-Amin-Nadim/MACHINE-LEARNING-RANDOM-FOREST-CLASSIFIER-ENSEMBLE-LEARNING-THEORY) 🌲🤖📊
+- [AdaBoost Ensemble Classifier](https://github.com/Muhammad-Amin-Nadim/ADA-BOOST-ADAPTIC-ENSAMBLE-BOOST-CLASSIFIER-MACHINE-LEARNING) 🚀📊🤖
+- [Principal Component Analysis - Dimensionality Reduction](https://github.com/Muhammad-Amin-Nadim/1.PRINCIPAL-COMPONENT-ANALYSIS-DIMENSIONALITY-REDUCTION-ML-UNSUPERVISED-LEARNING) 📉📊🤖
+- [Avoiding Overfitting Using Regularization](https://github.com/Muhammad-Amin-Nadim/AVOID-OVERFITTING-USING-USING-REGULARIZATION) 📉💡📊
+- [Unsupervised Learning with DBSCAN - Density-Based Clustering](https://github.com/Muhammad-Amin-Nadim/MACHINE-LEARNING-UNSUPERVISED-LEARNING-DENSITY-BASED-CLUSTERING-DBSCAN--) 📊📈🤖
+- [Choosing the Best Chart for Python Visualization](https://github.com/Muhammad-Amin-Nadim/CHOOSE-BEST-CHART-FOR--YOUR-PYTHON-VISUALIZATION.Chart-Suggestions-A-Thought-Starter-Andrew-Abela-) 📊📈📉
+- [Python Basics Guide](https://github.com/Muhammad-Amin-Nadim/HOW-TO-WORK-WITH-PYTHON-BASICS) 🐍📘
+- [Working with NumPy Properly](https://github.com/Muhammad-Amin-Nadim/HOW-TO-WORK-NUMPY-PROPERLY) 📊🤖📈
+- [Seaborn Library Guide for Visualization](https://github.com/Muhammad-Amin-Nadim/HOW-TO-WORK-WITH-SEABORN-LIBRARY) 📊🎨
+- [Matplotlib Guide for Effective Visualization](https://github.com/Muhammad-Amin-Nadim/HOW-TO-WORK-WITH-MATPLOT-EFFECTIVELY) 📉📈🎨
+- [Data Preprocessing in Python using Dummy Data](https://github.com/Muhammad-Amin-Nadim/MACHINE-LEARNING-DATA-PREPROCESSING-IN-PYTHON---USING-DUMMY-DATA) 📊📉
+
+---
+
+This curated list showcases your top projects and essential practice repositories, emphasizing impactful and relevant work. Let me know if there’s anything else you'd like refined!
 
 ---
 
