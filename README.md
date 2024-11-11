@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Dr-M-Amin-Nadim/Dr-M-Amin-Nadim/blob/main/wellcomme.jpg" alt="Welcome Image" width="500" height="80">
+  <img src="https://github.com/Dr-M-Amin-Nadim/Dr-M-Amin-Nadim/blob/main/welcome%2033.jpg)" alt="Welcome Image" width="500" height="80">
 </div>
 
 <div align="center">
