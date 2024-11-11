@@ -1,6 +1,6 @@
 <div align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="8">
-    <h2>WELCOME TO MY INTERACTIVE GITHUB PROFILE! 🌟</h2>
+  <marquee behavior="scroll" direction="centre" scrollamount="8">
+    WELCOME TO MY INTERACTIVE GITHUB PROFILE! 🌟
   </marquee>
 </div>
 
