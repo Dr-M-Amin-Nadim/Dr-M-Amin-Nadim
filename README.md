@@ -27,16 +27,16 @@
 ### Certifications and Badges
 
 <div align="center">
-  <img src="https://github.com/Dr-M-Amin-Nadim/Dr-M-Amin-Nadim/blob/main/Google%20Data%20Analytics%20Badge.png" alt="Google Data Analytics Badge" width="120"/>
-  <img src="https://github.com/Dr-M-Amin-Nadim/Dr-M-Amin-Nadim/blob/main/IBM%2BAI%2B-Watson%2BAI%2BApplication%2BBuild%2BPractitioner%207.png" alt="IBM Watson AI Practitioner" width="120"/>
-  <img src="https://github.com/Dr-M-Amin-Nadim/Dr-M-Amin-Nadim/blob/main/IBM%2BAI%2B-Artificial%2BIntelligence%2BEssentials%206.png" alt="IBM AI Essentials" width="120"/>
-  <img src="https://github.com/Dr-M-Amin-Nadim/Dr-M-Amin-Nadim/blob/main/IBM%2BAI%2B-Deep%2BLearning%2Bwith%2BTensorflow%2013.png" alt="IBM Deep Learning with TensorFlow" width="120"/>
-  <img src="https://github.com/Dr-M-Amin-Nadim/Dr-M-Amin-Nadim/blob/main/IBM%2BAI%2B-Deep%2BNeural%2BNetworks%2Bwith%2BPyTorch%2012.png" alt="IBM Deep Neural Networks with PyTorch" width="120"/>
-  <img src="https://github.com/Dr-M-Amin-Nadim/Dr-M-Amin-Nadim/blob/main/IBM%2BAI%2B-%2BMachine%2BLearning%2Bwith%2BApache%2BSpark%2010.png" alt="IBM Machine Learning with Apache Spark" width="120"/>
-  <img src="https://github.com/Dr-M-Amin-Nadim/Dr-M-Amin-Nadim/blob/main/IBM%2BAI%2B-Deep%2BLearning%2BEssentials%2Bwith%2BKeras%2011.png" alt="IBM Deep Learning with Keras" width="120"/>
-  <img src="https://github.com/Dr-M-Amin-Nadim/Dr-M-Amin-Nadim/blob/main/IBM%2BCloud%2BPrivate-Deploy%2BMicroservices%2Bwith%2BKuber.png" alt="IBM Cloud Private Deploy Microservices" width="120"/>
-  <img src="https://github.com/Dr-M-Amin-Nadim/Dr-M-Amin-Nadim/blob/main/IBM%2BCloud%2BPrivate-Dev%2Band%2BDeploy%2BMicroserv%2Bwith%2BMicroclimate.png" alt="IBM Cloud Dev and Deploy with Microclimate" width="120"/>
-  <img src="https://github.com/Dr-M-Amin-Nadim/Dr-M-Amin-Nadim/blob/main/IBM%2BCloud-Deploy%2BMicroservices%2Bwith%2BKuber3.png" alt="IBM Cloud Deploy Microservices with Kuber" width="120"/>
+  <img src="https://github.com/Dr-M-Amin-Nadim/Dr-M-Amin-Nadim/blob/main/Google%20Data%20Analytics%20Badge.png" alt="Google Data Analytics Badge" width="50"/>
+  <img src="https://github.com/Dr-M-Amin-Nadim/Dr-M-Amin-Nadim/blob/main/IBM%2BAI%2B-Watson%2BAI%2BApplication%2BBuild%2BPractitioner%207.png" alt="IBM Watson AI Practitioner" width="50"/>
+  <img src="https://github.com/Dr-M-Amin-Nadim/Dr-M-Amin-Nadim/blob/main/IBM%2BAI%2B-Artificial%2BIntelligence%2BEssentials%206.png" alt="IBM AI Essentials" width="50"/>
+  <img src="https://github.com/Dr-M-Amin-Nadim/Dr-M-Amin-Nadim/blob/main/IBM%2BAI%2B-Deep%2BLearning%2Bwith%2BTensorflow%2013.png" alt="IBM Deep Learning with TensorFlow" width="50"/>
+  <img src="https://github.com/Dr-M-Amin-Nadim/Dr-M-Amin-Nadim/blob/main/IBM%2BAI%2B-Deep%2BNeural%2BNetworks%2Bwith%2BPyTorch%2012.png" alt="IBM Deep Neural Networks with PyTorch" width="50"/>
+  <img src="https://github.com/Dr-M-Amin-Nadim/Dr-M-Amin-Nadim/blob/main/IBM%2BAI%2B-%2BMachine%2BLearning%2Bwith%2BApache%2BSpark%2010.png" alt="IBM Machine Learning with Apache Spark" width="50"/>
+  <img src="https://github.com/Dr-M-Amin-Nadim/Dr-M-Amin-Nadim/blob/main/IBM%2BAI%2B-Deep%2BLearning%2BEssentials%2Bwith%2BKeras%2011.png" alt="IBM Deep Learning with Keras" width="50"/>
+  <img src="https://github.com/Dr-M-Amin-Nadim/Dr-M-Amin-Nadim/blob/main/IBM%2BCloud%2BPrivate-Deploy%2BMicroservices%2Bwith%2BKuber.png" alt="IBM Cloud Private Deploy Microservices" width="50"/>
+  <img src="https://github.com/Dr-M-Amin-Nadim/Dr-M-Amin-Nadim/blob/main/IBM%2BCloud%2BPrivate-Dev%2Band%2BDeploy%2BMicroserv%2Bwith%2BMicroclimate.png" alt="IBM Cloud Dev and Deploy with Microclimate" width="50"/>
+  <img src="https://github.com/Dr-M-Amin-Nadim/Dr-M-Amin-Nadim/blob/main/IBM%2BCloud-Deploy%2BMicroservices%2Bwith%2BKuber3.png" alt="IBM Cloud Deploy Microservices with Kuber" width="50"/>
 </div>
 
 ---
