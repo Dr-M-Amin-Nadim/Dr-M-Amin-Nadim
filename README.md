@@ -1,3 +1,6 @@
+Here is the updated README with the "Connect with me" section placed right after the "Fun fact" section:
+
+```markdown
 <div align="center">
   <img src="https://github.com/Dr-M-Amin-Nadim/Dr-M-Amin-Nadim/blob/main/KKKK.svg" alt="Top Banner Image" width="100%">
 </div>
@@ -47,19 +50,13 @@
 
 ---
 
-### Visitor Count
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Dr-M-Amin-Nadim.Dr-M-Amin-Nadim" alt="Visitor Count"/>
-</div>
-
----
+🌙 **Fun fact:** NASA's Perseverance Rover carries my name😁 (👽 could know about me 😜) & Google knows more about me than myself 😅
 
 ### 🌐 Connect with me
 
 <div align="center">
   <a href="https://dev.to/muhammad_aminnadim_7dcaf" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/dev.png" alt="Dev.to"/>
+    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Dev.to" width="48"/>
   </a>
   <a href="https://twitter.com/muhammadaminnadim" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter"/>
@@ -73,11 +70,24 @@
   <a href="https://github.com/Dr-M-Amin-Nadim" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/>
   </a>
-  <a href="https://dev.to/muhammad_aminnadim_7dcaf" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/dev.png" alt="DEV Community"/>
-  </a>
+</div>
+
+---
+
+### Visitor Count
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Dr-M-Amin-Nadim.Dr-M-Amin-Nadim" alt="Visitor Count"/>
 </div>
 
 ---
 
 ### Show some ❤️ by starring ⭐ some of the repositories on [my GitHub profile](https://github.com/Dr-M-Amin-Nadim)!
+```
+
+### Explanation of Changes:
+
+- Moved the "Connect with me" section directly below the "Fun fact" for a natural flow.
+- Updated layout and icons for consistency.
+
+This should now display correctly and be aligned as requested. Let me know if you need further customization!
