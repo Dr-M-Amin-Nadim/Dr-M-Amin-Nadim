@@ -56,6 +56,9 @@
 🌙 **Fun fact:** NASA's Perseverance Rover carries my name😁 (👽 could know about me 😜) & Google knows more about me than myself 😅
 
 ### 🌐 Connect with me
+<div align="center">
+  <img src="https://github.com/Dr-M-Amin-Nadim/Dr-M-Amin-Nadim/blob/main/Handshake.gif" alt="Handshake" width="100">
+</div>
 
 <div align="center">
   <a href="https://dev.to/muhammad_aminnadim_7dcaf" target="_blank">
