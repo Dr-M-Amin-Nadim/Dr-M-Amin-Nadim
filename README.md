@@ -20,8 +20,10 @@
 - 🌱 I’m currently advancing my skills in LLMs, Cloud Computing, and DevOps tools, focusing on research implementation in ML, DL, and LLM.
 - 🎓 **PhD Researcher** in the National Doctorate Program.
 - 🔭 I am contributing to open-source projects, developing advanced ML models, and sharing insights on data science and machine learning.
-- 💬 Ask me about Python, Data Science, Machine Learning, Predictive Analysis, DevOps, Cloud Computing, AI Engineering, Git/GitHub, LLM Development.
-- 📫 How to reach me: dr.muhammad.amin.nadim@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/dr-m-amin-nadim).
+- 💬 **Ask me about** Python, Flask, Streamlit, Markdown, Data Science, Machine Learning, Predictive Analysis, DevOps, Cloud Computing, AI Engineering, Git/GitHub, and LLM Development.
+- 📫 **How to reach me:** dr.muhammad.amin.nadim@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/dr-m-amin-nadim).
+- 😍 I ❤️ reading tech blogs, 💫travelling and building myself for future AI Revolution.
+- 💌 💝 History 🙏 Everyone....💝**A Journey Through Time** 💝 | In 1999, I taught my first computer class to a practising MBBS doctor.😄
 - 😄 Pronouns: He/Him
 - 🌐 Visit my [Website](https://example.com)
 
