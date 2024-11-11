@@ -3,12 +3,6 @@
 </div>
 
 <div align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="8">
-    <h2>WELCOME TO MY INTERACTIVE GITHUB PROFILE! 🌟</h2>
-  </marquee>
-</div>
-
-<div align="center">
   <img src="https://github.com/Dr-M-Amin-Nadim/Dr-M-Amin-Nadim/blob/main/KKKK.svg" alt="Top Banner Image" width="100%">
 </div>
 
