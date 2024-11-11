@@ -27,10 +27,20 @@
 - 💌 💝 History 🙏 Everyone.💝In 1999, I taught my first computer class to a practising MBBS doctor.😄
 - 😍 I’m all about the thrill of the game ❤️, diving into cricket 🏏, hockey 🏒, and football ⚽, sparking my passion ⚡⚡⚡
 - 😄 Pronouns: He/Him
-- 🌐 Visit my [Website](https://example.com)
+- 🌐 Visit my [Website](https://muhammad-amin-nadim.github.io/)
 
 ---
-Here's the updated list, focusing only on the relevant and functional links for your profile scope. I’ve removed duplicates, non-functional links, and irrelevant repositories.
+
+### Featured AI Application
+- [Voice-to-Voice and Text Chatbot on Hugging Face](https://huggingface.co/spaces/maminnadim/Voice-to-Voice-and-Text-Chatbot) 🗣️🤖💬
+
+---
+
+### Data Science and Capstone Projects
+- [Coursera Capstone Project](https://github.com/Muhammad-Amin-Nadim/Coursera_Capstone) 🎓📊
+- [Data Encryption and Compression Simulator Project](https://github.com/Muhammad-Amin-Nadim/PROJECT-DATA-ENCRYPTION-COMPRESSION-SIMULATOR) 🔒📉🔐
+- [Data Science Project Report and Presentation](https://github.com/Muhammad-Amin-Nadim/DATA-SCIENCE-PROJECT-REPORT-PRESENTATION-AMIN-NADIM) 📊📈📑
+- [Data Science - Project Report](https://github.com/Muhammad-Amin-Nadim/DATA-SCIENCE---PROJECT-REPORT---AMIN-NADIM) 📑📈🤖
 
 ---
 
@@ -63,12 +73,7 @@ Here's the updated list, focusing only on the relevant and functional links for 
 - [Matplotlib Guide for Effective Visualization](https://github.com/Muhammad-Amin-Nadim/HOW-TO-WORK-WITH-MATPLOT-EFFECTIVELY) 📉📈🎨
 - [Data Preprocessing in Python using Dummy Data](https://github.com/Muhammad-Amin-Nadim/MACHINE-LEARNING-DATA-PREPROCESSING-IN-PYTHON---USING-DUMMY-DATA) 📊📉
 
----
-
-This curated list showcases your top projects and essential practice repositories, emphasizing impactful and relevant work. Let me know if there’s anything else you'd like refined!
-
----
-
+--- 
 
 ### Certifications and Badges
 
