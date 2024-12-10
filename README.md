@@ -35,11 +35,7 @@
   I had the incredible honour of presenting  research at the prestigious Applied Research International Conference and Oxford Awards Ceremony 2024, held at the historic Oxford Town Hall, UK, in partnership with the renowned University of Oxford (2 December,2024) 
   [Oxford][🔗 Click here for certificate details](https://github.com/Dr-M-Amin-Nadim/Dr-M-Amin-Nadim/blob/main/oxford.gif)
 
-
-
 </div>
-
-
 
 ---
 
