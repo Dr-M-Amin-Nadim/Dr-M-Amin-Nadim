@@ -31,7 +31,7 @@
 
 ---
 <div align="left">
-  <img src="(https://github.com/Dr-M-Amin-Nadim/Dr-M-Amin-Nadim/blob/main/oxford.jpg)" alt="Profile Image" align="right" width="200" style="margin-left: 20px;">
+  <img src="(https://github.com/Dr-M-Amin-Nadim/Dr-M-Amin-Nadim/blob/main/oxford.gif)" alt="Profile Image" align="right" width="200" style="margin-left: 20px;">
 
   Proud Moment:A Dream Come True! 🏛️✨ Received an official letter of participation and presentation from the University of Oxford, UK – where excellence meets opportunity!
   
