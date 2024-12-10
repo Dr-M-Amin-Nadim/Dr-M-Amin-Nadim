@@ -32,7 +32,7 @@
 ---
 <div align="left">
   🎯🎯A Dream Come True!🎯🎯 🏛️✨ Received an official letter of participation and presentation from the University of Oxford, UK – where excellence meets opportunity!
-  Proud Moment: I had the incredible honour of presenting  research at the prestigious Applied Research International Conference and Oxford Awards Ceremony 2024, held at the historic Oxford Town Hall, UK, in partnership with the renowned **University of Oxford** 
+  I had the incredible honour of presenting  research at the prestigious Applied Research International Conference and Oxford Awards Ceremony 2024, held at the historic Oxford Town Hall, UK, in partnership with the renowned University of Oxford (2 December,2024) 
 </div>
 
 
