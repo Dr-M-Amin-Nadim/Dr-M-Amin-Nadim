@@ -30,11 +30,15 @@
 - 🌐 Visit my [Website](https://muhammad-amin-nadim.github.io/)
 
 ---
-Proud Moment:A Dream Come True! 🏛️✨ Received an official letter of participation and presentation from the University of Oxford, UK – where excellence meets opportunity!
-<img src="(https://github.com/Dr-M-Amin-Nadim/Dr-M-Amin-Nadim/blob/main/oxford.jpg)" alt="Profile Image" align="right" width="200" style="margin-left: 20px;">
+<div align="left">
+  <img src="[https://raw.githubusercontent.com/Dr-M-Amin-Nadim/Dr-M-Amin-Nadim/main/okkk.gif](https://github.com/Dr-M-Amin-Nadim/Dr-M-Amin-Nadim/blob/main/oxford.jpg)" alt="Profile Image" align="right" width="200" style="margin-left: 20px;">
+
+  <h1><b>Proud Moment:A Dream Come True! 🏛️✨ Received an official letter of participation and presentation from the University of Oxford, UK – where excellence meets opportunity!</b></h1>
+  
+</div>
 
 
----
+
 ---
 
 
