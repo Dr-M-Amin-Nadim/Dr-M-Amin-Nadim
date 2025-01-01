@@ -40,12 +40,21 @@ Driving Innovation: Top Research Papers and Active Participation
 <div>
 🎓Breast Cancer Detection using Mammography: Image Processing to Deep Learning : 
 </div>
+<div>
 🎓Automated breast cancer detection by reconstruction independent component analysis (RICA) based hybrid features using machine learning paradigms : https://doi.org/10.1080/09540091.2022.2151566
+</div>
+<div>
 🎓The Deep Learning ResNet101 and Ensemble XGBoost Algorithm with Hyperparameters Optimization Accurately Predict the Lung Cancer: https://doi.org/10.1080/08839514.2023.2166222
+</div>
+<div>
 🎓Exploring the effect of digital and multisensory educational materials on retention in primary school using Tangible User Interfaces : https://doi.org/10.1080/10494820.2024.2427277
+</div>
+<div>
 🎓Students’ Satisfaction With Self-paced E-learning: Evidence From a Meta-analysis : https://doi.org/10.32043/gsd.v8i2.1115
+</div>
+<div>
 🎓Role of Machine Learning in the improvement of teaching and learning: a best evidence syntheses : https://zenodo.org/doi/10.5281/zenodo.10123534 (Pages 139-149
-
+</div>
 ---
 
 ### Featured AI Application
